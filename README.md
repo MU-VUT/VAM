@@ -1,0 +1,2 @@
+# VAM
+Generator zadani
